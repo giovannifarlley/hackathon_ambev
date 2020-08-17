@@ -42,3 +42,9 @@
  * *Series temporais não foram abordadas em função do custo das api's para esse tipo de dados ser inviável para este protótipo e objetivo do evento.*
  * *As fontes de dados que podem ser utilizadas neste serviço não são limitadas apenas as que foram abordadas no trabalho. Ficando a critério do cliente escolher quais além das já utilizadas, seria interessante para o contexto do seu negocio.*
  * *Análise de sentimentos e metodologia de deeplearning realizada api PrimeCom (código proprietário: Farlley GIovanni V. Ferreira, por motivos de lei de propriedade intelectual, não podem ser disponibilizados sem um termo de confidencialidade e cooperação assinado entre as partes interessadas. Direitos de comercialização cedidos a holding BOOST Enterprise, de propriedade do autor), o output de informação está disponível neste repositório assim como demais dados.*
+ 
+ 
+ ## Resultados da pesquisa
+[Política de Uso de dados](https://github.com/giovannifarlley/hackathon_ambev/blob/master/politica%20de%20dados.md)
+ 
+ 
