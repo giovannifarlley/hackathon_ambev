@@ -8,7 +8,15 @@
  * *Todos os dados levantados, indicaram que as pessoas estão buscando padrão de vida mais saudável e, que tem maior preferencia por sucos, bebidas energéticas e infusões (chá e café), o que nos leva a crer que estas serão as categorias com maior taxa de crescimento em 2020.*
  * *A população amostrada, evidenciou que um produto (no nosso caso, bebidas não alcoólicas), qualidade e necessidade não são os parâmetros que mais influenciam na escolha de um produto ou marca, mas sim, indicadores de posicionamento social, e como a marca faz com que estas pessoas se sentem. Esse dado foi verificado em todas as faixas etárias e níveis de escolaridade.*
 
+
+## Visualização dos resultados:
+
+[Visualização dos resultados](https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true)
+
+
 ## Metodologias e tecnologias utilizadas
+
+![Fluxo do processo](https://github.com/giovannifarlley/hackathon_ambev/blob/master/dataseeker-flow.png?raw=true)
 
   1. Extração de dados via api das plataformas (Twitter, Facebook e Instagram)
   2. Limpeza dos dados utilizando api do nltk 
@@ -28,12 +36,4 @@
 
   1. [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSeffZeaIeeDw20gq7DpDCrQv8zeIyPaWjWN8R9elR6CRhL_FA/viewform)
   
- ## Metodologia:
- 
-![Fluxo do processo](https://github.com/giovannifarlley/hackathon_ambev/blob/master/dataseeker-flow.png?raw=true)
-
-
-## Visualização dos resultados:
-
-[Visualização dos resultados](https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true)
-
+  
