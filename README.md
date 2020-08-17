@@ -26,6 +26,6 @@
 ![Fluxo do processo](https://github.com/giovannifarlley/hackathon_ambev/blob/master/dataseeker-flow.png?raw=true)
 
 
-## VIsualização dos resultados:
+## Visualização dos resultados:
 
-![report](https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true)
+[Visualização dos resultados](https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true)
