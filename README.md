@@ -13,7 +13,7 @@
 
 ### Redes sociais pesquisadas:
   
-  1. [Twitter]
+  1. [Twitter](http://docs.tweepy.org/en/latest/)
   2. [Facebook API](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
   3. [Instagram API](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
   
