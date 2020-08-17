@@ -37,7 +37,7 @@
   1. [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSeffZeaIeeDw20gq7DpDCrQv8zeIyPaWjWN8R9elR6CRhL_FA/viewform)
   
   
-##Observações
+## Observações:
 
  * *Series temporais não foram abordadas em função do custo das api's para esse tipo de dados ser inviável para este protótipo e objetivo do evento.
  * *As fontes de dados que podem ser utilizadas neste serviço não são limitadas apenas as que foram abordadas no trabalho. Ficando a critério do cliente escolher quais além das já utilizadas, seria interessante para o contexto do seu negocio.
