@@ -29,3 +29,8 @@
 ## Visualização dos resultados:
 
 [Visualização dos resultados](https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true)
+
+## Um pouco do que aprendemos:
+
+ ###*. De todos os dados levantados, menos de 1% dos consumidores compram produtos sem pensar no posicionamento social/ambiental do fornecedor
+ ###*. As pessoas consomem mais bebidas (alcoolicas ou não) buscando sentimentos que transparecem em redes sociais, 
