@@ -10,9 +10,16 @@
   5. Visualização dos dados feita via Power BI, podendo ser acessada por: COLOCAR LINK
 
 ## Fontes de dados:
+
 ### Redes sociais pesquisadas:
   
   1. Twitter
   2. Facebook API
   3. Instagram API
   
+### Questionarios disponibilizados:
+
+  1. https://docs.google.com/forms/d/e/1FAIpQLSeffZeaIeeDw20gq7DpDCrQv8zeIyPaWjWN8R9elR6CRhL_FA/viewform
+  
+ ## Metodologia:
+ 
