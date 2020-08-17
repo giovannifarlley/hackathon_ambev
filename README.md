@@ -32,5 +32,8 @@
 
 ## Um pouco do que aprendemos:
 
- * De todos os dados levantados, menos de 1% dos consumidores compram produtos sem pensar no posicionamento social/ambiental do fornecedor
- * As pessoas consomem mais bebidas (alcoolicas ou não) buscando sentimentos que transparecem em redes sociais, 
+ * *.De todos os dados levantados, menos de 1% dos consumidores compram produtos sem pensar no posicionamento social/ambiental do fornecedor.*
+ * *.Na população amostrada, as pessoas consomem mais bebidas (alcoolicas ou não) buscando sentimentos que consigam transparecer em redes sociais (alegria, prazer).*
+ * *.Na população amostrada, consumo de não alcoólicos, em regiões de alta densidade populacional, tais como são paulo e minas gerais tem predominancia em relação a bebidas alcoólicas.*
+ * *.Todos os dados levantados, indicaram que as pessoas estão buscando padrão de vida mais saudável e, que tem maior preferencia por sucos, bebidas energéticas e infusões (chá e café), o que nos leva a crer que estas serão as categorias com maior taxa de crescimento em 2020.*
+ * *.A população amostrada
