@@ -23,3 +23,4 @@
   
  ## Metodologia:
  
+![Fluxo do processo](https://github.com/giovannifarlley/hackathon_ambev/blob/master/dataseeker-flow.jpg?raw=true)
