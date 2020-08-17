@@ -32,5 +32,5 @@
 
 ## Um pouco do que aprendemos:
 
- ###*. De todos os dados levantados, menos de 1% dos consumidores compram produtos sem pensar no posicionamento social/ambiental do fornecedor
- ###*. As pessoas consomem mais bebidas (alcoolicas ou não) buscando sentimentos que transparecem em redes sociais, 
+ * De todos os dados levantados, menos de 1% dos consumidores compram produtos sem pensar no posicionamento social/ambiental do fornecedor
+ * As pessoas consomem mais bebidas (alcoolicas ou não) buscando sentimentos que transparecem em redes sociais, 
