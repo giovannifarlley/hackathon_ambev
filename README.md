@@ -1,5 +1,18 @@
 # Hackathon Ambev
 
 
+## Metodologias e tecnologias utilizadas
 
-![Image] (https://app.powerbi.com/view?r=eyJrIjoiMGUwOTczZmItODJkYi00NjI1LWEzNDUtOWIwY2E0YWYyODFhIiwidCI6IjU0NTllNjc3LTMxODctNDQ5My1hZjJlLTY1MDhjYTYxYjBjNiJ9&embedImagePlaceholder=true&pageName=ReportSection)
+  1. 
+  2.
+  3.
+  4.
+  5.
+
+## Fontes de dados:
+### Redes sociais pesquisadas:
+  
+  1. Twitter
+  2. Facebook API
+  3. Instagram API
+  
