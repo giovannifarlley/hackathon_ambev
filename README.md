@@ -13,9 +13,9 @@
 
 ### Redes sociais pesquisadas:
   
-  1. Twitter
-  2. Facebook API
-  3. Instagram API
+  1. [Twitter]
+  2. [Facebook API](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
+  3. [Instagram API](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
   
 ### Questionarios disponibilizados:
 
