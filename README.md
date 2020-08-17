@@ -6,8 +6,8 @@
   1. Extração de dados via api das plataformas (Twitter, Facebook e Instagram)
   2. Limpeza dos dados utilizando api do nltk 
   3. Sequenciamento e clusterização dos vetores de texto
-  4. Analise de sentimentos pelo algoritmo PrimeCom (código propietario: Farlley GIovanni V. Ferreira, por motivos de lei de propriedade intelectual, não podem ser disponibilizados sem um termo de confidencialidade e cooperação assinado entre as partes interessadas. Direitos de comercialização cedidos a holding BOOST Enterprise, de propriedade do autor.) 
-  5.
+  4. Analise de sentimentos e metodologia de deeplearning realizada api PrimeCom (código propietario: Farlley GIovanni V. Ferreira, por motivos de lei de propriedade intelectual, não podem ser disponibilizados sem um termo de confidencialidade e cooperação assinado entre as partes interessadas. Direitos de comercialização cedidos a holding BOOST Enterprise, de propriedade do autor), o output de informação está disponivel neste repositorio assim como demais dados.
+  5. Visualização dos dados feita via Power BI, podendo ser acessada por: COLOCAR LINK
 
 ## Fontes de dados:
 ### Redes sociais pesquisadas:
